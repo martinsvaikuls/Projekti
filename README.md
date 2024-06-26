@@ -4,15 +4,13 @@
 
 ## 1. homeworkMSNGER.py
 Šī programma atver rtu studenta mājas darbu vietni, savāc informāciju par pieejamiem mājas darbiem. saglabā .xslx un atver Telegram un nosūta informāciju pirmajā sarakstē. (izdevīgi lai uzzinātu mājas darbus un uztaisītu kafiju)
-## 2. mobitvaBotVer2.py
-otrā versija botam, kurš palīdz veikt atkārtotas darbības
-## 3. gameWithPyTkinter.py
+## 2. gameWithPyTkinter.py
 Šī programma ir ar lietotāju interaktīva neliela spēle, kur vajag izvairīties no pretiniekiem.
-## 4. worldOf-TanksEconomy.py
+## 3. worldOf-TanksEconomy.py
 no .xlsx faila paņem tanku nosaukumus un iet uz internet vietni lai uzzinātu, kurš tanks ir viss effektīvākais no kopas. Informāciju saglabā .xlsx failā.
-## 5. autoNewPasswords.py
+## 4. autoNewPasswords.py
 Šī programma ņēm lietotāja saglabātos vietnes url uz paroļu mainīšanu. Atver vietni un pajautā jaunās paroles specifikācijas un saglabā to txt failā.
-## 6. printScreenToImg.py
+## 5. printScreenToImg.py
 veido skrinšotus un kopē tos "Obsidian.exe", kuri tiek automātiski pārveidoti par .jpg
 
 -----
