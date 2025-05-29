@@ -12,9 +12,15 @@ no .xlsx faila paņem tanku nosaukumus un iet uz internet vietni lai uzzinātu, 
 Šī programma ņēm lietotāja saglabātos vietnes url uz paroļu mainīšanu. Atver vietni un pajautā jaunās paroles specifikācijas un saglabā to txt failā.
 ## 5. printScreenToImg.py
 veido skrinšotus un kopē tos "Obsidian.exe", kuri tiek automātiski pārveidoti par .jpg
+## 6. memoTotxt.py un foldersToNotes.py
+pārveido memo failus (samsung notes fails), uz txt (vai manā gadijumā uz .md) failiem (izveidoju jo vajadzēja apstrādāt 600 zip failus, kā arī pārbuadīt vai tiem ir medijas faili un izgūt tos)
+## 7. game.cpp
+spēle kuru izveidoju kā papildu uzdevumu objekt orientētās programmēšanas kursam. 
+Programma izveido labirintu ar pretiniekiem un spēlētāju, uz ekrāna rāda punktu skaitu un spēlētāja dzīvības daudzumu
 
 -----
 
+
 Kopējā aktivitāte ar privātajiem repositorijiem
 
-![Github aktivitāte](https://github.com/martinsvaikuls/Projekti/assets/144250487/494db8cf-c2b8-4952-8905-96f86c780b8b)
+![Github2024](https://github.com/user-attachments/assets/fc6cd673-a2a2-44e0-9cf3-00f2c782042c)
